@@ -6,6 +6,6 @@ Parametrami domyślnymi są year=2019 oraz month=01.
 
 Przykładowe zapytania:
 
-localhost:8080/getweeiacalendar?year=2018&month=10
+localhost:8080/GetCalendarEvents?year=2018&month=10
 
-localhost:8080/getweeiacalendar
+localhost:8080/GetCalendarEvents
